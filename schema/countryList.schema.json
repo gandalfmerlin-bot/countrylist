@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["listname", "neededMod", "countries"],
+  "properties": {
+    "listname": {
+      "type": "string",
+      "minLength": 1
+    },
+    "neededMod": {
+      "type": "string",
+      "minLength": 1
+    },
+    "countries": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["name", "tag", "team"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tag": {
+            "type": "string",
+            "pattern": "^[A-Z0-9]{2,4}$"
+          },
+          "team": {
+            "type": "string",
+            "minLength": 1
+          },
+          "coop": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 3
+          }
+        },
+        "additionalProperties": false
+      },
+      "uniqueItems": true
+    }
+  },
+  "additionalProperties": false
+}

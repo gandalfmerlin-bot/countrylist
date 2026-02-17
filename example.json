@@ -1,0 +1,18 @@
+{
+  "listname": "Country List Example",
+  "neededMod": "basegame",
+  "countries": [
+    {
+      "name": "Example Country",
+      "coop": 2,
+      "tag": "EXC",
+      "team": "T1"
+    },
+    {
+      "name": "Second Country",
+      "coop": 2,
+      "tag": "EXC2",
+      "team": "T1"
+    }
+  ]
+}
