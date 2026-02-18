@@ -15,5 +15,5 @@ jobs:
       - name: Install dependencies
         run: bun install
       
-      - name: Validate countryList.json
-        run: bun run validate.ts
+      - name: Validate all CountryLists in /countrylists
+        run: bun run index.ts

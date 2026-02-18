@@ -14,10 +14,11 @@ In this repo you'll find explaination and examples for country list for the [Dis
 ### New List
 
 1. Create a Branch. Use this name pattern: `<what you want to do>/<countrylists-name>`
+    > Example: `new-countrylist\road-to-56` or `add-country\tfb`
 
 2. Create a new file (`<countrylist-name>.json`) in `/countrylists`
 
-3. Paste or write your countrylist which follows [`example.json`](./example.json)
+3. Paste or write your countrylist which follows [`example.json`](./example.json). If you need help help see [#Explaination]
 
 4. Commit your changes
 
