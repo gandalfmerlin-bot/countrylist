@@ -9,7 +9,7 @@ on:
 
 jobs:
   validate:
-    runs-on: self-hosted
+    runs-on: danielvici-vps
     steps:
       - uses: actions/checkout@v4
   
