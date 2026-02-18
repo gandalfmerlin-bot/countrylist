@@ -1,19 +1,24 @@
-name: Validate country list
+name: Validate country lists
 
 on:
   pull_request:
     paths:
-      - "countryList.json"
+      - "**.json"
+      - "index.ts"
+      - "schema/**"
 
 jobs:
   validate:
     runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
+  
       - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
       
       - name: Install dependencies
         run: bun install
       
-      - name: Validate all CountryLists in /countrylists
+      - name: Validate all JSON files
         run: bun run index.ts
