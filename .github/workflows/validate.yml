@@ -9,7 +9,7 @@ on:
 
 jobs:
   validate:
-    runs-on: [self-hosted, Linux, X64, dv-vps] 
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
   
