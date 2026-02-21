@@ -16,7 +16,7 @@
       "minItems": 2,
       "items": {
         "type": "object",
-        "required": ["name", "tag", "team"],
+        "required": ["name", "tag"],
         "properties": {
           "name": {
             "type": "string",
