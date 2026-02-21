@@ -4,6 +4,17 @@ In this repo you'll find explaination and examples for country list for the [Dis
 
 **Currently** it's not possible to create them manually. If want to add a List read this. Duplicates will be rejceted so make sure your List is not in [`countrylists/`](./countrylists) or see here.
 
+## Contents
+
+- [Contents](#contents)
+- [How to add your Countrylist](#how-to-add-your-countrylist)
+    - [What do I need?](#what-do-i-need)
+    - [New List](#new-list)
+    - [Update a List](#update-a-list)
+- [Request changes](#request-changes)
+- [Explaination](#explaination) (ToDo)
+- [Existing List](#existing-list)
+
 ## How to add your CountryList
 
 ### What do I need?
@@ -18,7 +29,7 @@ In this repo you'll find explaination and examples for country list for the [Dis
 
 2. Create a new file (`<countrylist-name>.json`) in `/countrylists`
 
-3. Paste or write your countrylist which follows [`example.json`](./example.json). If you need help help see [#Explaination]
+3. Paste or write your countrylist which follows [`example.json`](./example.json). If you need help help see [Explaination](#explaination)
 
 4. Commit your changes
 
@@ -26,13 +37,22 @@ In this repo you'll find explaination and examples for country list for the [Dis
 
 6. Wait for the runner to check your submission. If it's fails make adjustments to your file. You can click on Details to find out why the check fails.
     
-    > *The PR will be rejected if the check is unsuccessful.*
+    > *The PR won't be accepted while the check is not successful.*
 
 7. Wait for me ([danielvici123](https://github.com/danielvici)) to answer your PR. It will be merged once its in the Database.
 
 ### Update a List
 
 It's basically the same, but instead of creating a new file, you update the old one.
+
+## Request changes
+
+Use [Issue](https://github.com/gandalfmerlin-bot/countrylist/issues) to submit your reqeuests
+
+> The issue **must** contain the following
+> - Name of the list to be changed
+> - A short description of what needs to be changed
+> - Explain why it should be changed (e.g., new game version)
 
 ## Explaination
 

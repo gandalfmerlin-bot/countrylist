@@ -30,7 +30,7 @@ List for [TFB Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=255931
   "countries": [
     {
       "tag": "GER",
-      "coop": 2,
+      "coop": 3,
       "name": "Germany",
       "team": "Axis"
     },
@@ -72,7 +72,7 @@ List for [TFB Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=255931
     },
     {
       "tag": "JAP",
-      "coop": 1,
+      "coop": 3,
       "name": "Japan",
       "team": "GEACPS"
     },
@@ -88,13 +88,13 @@ List for [TFB Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=255931
     },
     {
       "tag": "USA",
-      "coop": 1,
+      "coop": 3,
       "name": "United States",
       "team": "Allies"
     },
     {
       "tag": "ENG",
-      "coop": 1,
+      "coop": 2,
       "name": "United Kingdom",
       "team": "Allies"
     },
@@ -140,7 +140,7 @@ List for [TFB Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=255931
     },
     {
       "tag": "SOV",
-      "coop": 2,
+      "coop": 4,
       "name": "Soviet Union",
       "team": "Comintern"
     },
