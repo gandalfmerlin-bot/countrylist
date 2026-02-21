@@ -26,7 +26,7 @@ In this repo you'll find explaination and examples for country list for the [Dis
 
 6. Wait for the runner to check your submission. If it's fails make adjustments to your file. You can click on Details to find out why the check fails.
     
-    > *The PR will be rejected if the check is not green.*
+    > *The PR will be rejected if the review is unsuccessful.*
 
 7. Wait for me ([danielvici123](https://github.com/danielvici)) to answer your PR. It will be merged once its in the Database.
 
