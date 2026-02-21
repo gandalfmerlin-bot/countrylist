@@ -1,0 +1,127 @@
+{
+  "listname": "TFB",
+  "countries": [
+    {
+      "tag": "GER",
+      "coop": 3,
+      "name": "Germany",
+      "team": "Axis"
+    },
+    {
+      "tag": "ITA",
+      "coop": 1,
+      "name": "Italy",
+      "team": "Axis"
+    },
+    {
+      "tag": "ROM",
+      "name": "Romania",
+      "team": "Axis"
+    },
+    {
+      "tag": "HUN",
+      "name": "Hungary",
+      "team": "Axis"
+    },
+    {
+      "tag": "BUL",
+      "name": "Bulgaria",
+      "team": "Axis"
+    },
+    {
+      "tag": "FIN",
+      "name": "Finland",
+      "team": "Axis"
+    },
+    {
+      "tag": "YUG",
+      "name": "Yugoslavia",
+      "team": "Axis"
+    },
+    {
+      "tag": "SPR",
+      "name": "Spain",
+      "team": "Axis"
+    },
+    {
+      "tag": "JAP",
+      "coop": 3,
+      "name": "Japan",
+      "team": "GEACPS"
+    },
+    {
+      "tag": "SIA",
+      "name": "Siam",
+      "team": "GEACPS"
+    },
+    {
+      "tag": "MAN",
+      "name": "Manchukuo",
+      "team": "GEACPS"
+    },
+    {
+      "tag": "USA",
+      "coop": 3,
+      "name": "United States",
+      "team": "Allies"
+    },
+    {
+      "tag": "ENG",
+      "coop": 2,
+      "name": "United Kingdom",
+      "team": "Allies"
+    },
+    {
+      "tag": "FRA",
+      "name": "France",
+      "team": "Allies"
+    },
+    {
+      "tag": "CAN",
+      "name": "Canada",
+      "team": "Allies"
+    },
+    {
+      "tag": "AST",
+      "name": "Australia",
+      "team": "Allies"
+    },
+    {
+      "tag": "SAF",
+      "name": "South Africa",
+      "team": "Allies"
+    },
+    {
+      "tag": "RAJ",
+      "name": "India",
+      "team": "Allies"
+    },
+    {
+      "tag": "MEX",
+      "name": "Mexico",
+      "team": "Allies"
+    },
+    {
+      "tag": "BRA",
+      "name": "Brazil",
+      "team": "Allies"
+    },
+    {
+      "tag": "POL",
+      "name": "Poland",
+      "team": "Allies"
+    },
+    {
+      "tag": "SOV",
+      "coop": 4,
+      "name": "Soviet Union",
+      "team": "Comintern"
+    },
+    {
+      "tag": "MON",
+      "name": "Mongolia",
+      "team": "Comintern"
+    }
+  ],
+  "neededMod": "tfb"
+}
